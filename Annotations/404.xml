@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>404.png</filename>
+	<path>/home/junior/Documentos/ADS5/TCC/dataset/ssd/JPEGImages/404.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moscaDasFrutas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>16</ymin>
+			<xmax>217</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

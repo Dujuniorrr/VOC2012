@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>89.jpg</filename>
+	<path>/home/junior/Documentos/ADS5/TCC/dataset/ssd/JPEGImages/89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2278</width>
+		<height>2278</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moscaDasFrutas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>536</ymin>
+			<xmax>2201</xmax>
+			<ymax>1690</ymax>
+		</bndbox>
+	</object>
+</annotation>
