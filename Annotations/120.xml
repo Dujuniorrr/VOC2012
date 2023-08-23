@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>JPEGImages</folder>
-	<filename>120.png</filename>
-	<path>/home/junior/Documentos/ADS5/TCC/dataset/ssd/JPEGImages/120.png</path>
+	<filename>120.jpg</filename>
+	<path>/content/dataset/VOC2012/JPEGImages/120.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
